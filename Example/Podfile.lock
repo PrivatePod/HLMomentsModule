@@ -1,0 +1,16 @@
+PODS:
+  - HLMomentsModule (0.1.0)
+
+DEPENDENCIES:
+  - HLMomentsModule (from `../`)
+
+EXTERNAL SOURCES:
+  HLMomentsModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HLMomentsModule: 48800039727474a3f3392ead251b92fa912af40d
+
+PODFILE CHECKSUM: a0decddde95a844ac33d13dd3369f3560c903ba2
+
+COCOAPODS: 1.7.2
