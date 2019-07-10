@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HLMomentsModule_Example' do
+  pod 'HLMomentsModule', :path => '../'
+
+  target 'HLMomentsModule_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
